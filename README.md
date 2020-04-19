@@ -8,7 +8,7 @@ It was developed to quantify the distance of black and white regions, respective
 It was developed in Python 3.7.3.
 
 INSTRUCTIONS:
-1. Place the three '.py' files and the image that you want to measure in the same directory. The image shall be binary (containing only black and white pixels, or zeros and ones).
+1. Place the three '.py' files and the image that you want to measure in the same directory. The image shall be binary (containing only black and white pixels, or zeros and ones).It works for .PNG and .JPG images.
 2. Open the file called 'MAIN_b_w.py'
 3. Three inputs are to be entered manually: Image name, number of lines, scale.
 Example:
