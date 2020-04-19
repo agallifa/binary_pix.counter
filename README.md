@@ -4,7 +4,7 @@
 
 ABSTRACT:
 The program measures the distance of black and white regions of a binary image along vertical and horizontal lines, and plots a histogram of the size of the both black and white spots measured, together with its average and standard deviation. 
-It was developed to quantify the distance of black and white regions, respectively, in a speckle pattern used for Digital Image Correlation (DIC) development at CERN EN-MME-MM section.
+It was developed to quantify the distance of black and white regions, respectively, in a speckle pattern used for Digital Image Correlation (DIC) development at CERN EN-MME-Materials & Metrology section.
 It was developed in Python 3.7.3.
 
 INSTRUCTIONS:
